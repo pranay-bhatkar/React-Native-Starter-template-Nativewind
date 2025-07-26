@@ -133,4 +133,9 @@ MIT
 
 ## 💡 Author
 
+<<<<<<< HEAD
 Made with ❤️ by [Pranay Bhatkar](https://linkedin.com/in/bhatkar)
+=======
+Made with ❤️ by [Pranay Bhatkar](htpps://linkedin.com/in/bhatkar)
+
+>>>>>>> 03d29dd586d98b34bb8bb71fe5cc9b7a0f7981a1
