@@ -136,4 +136,5 @@ MIT
 
 ## 💡 Author
 
-Made with ❤️ by [Pranay Bhatkar]
+Made with ❤️ by [htpps://linkedin.com/in/bhatkar]Pranay Bhatkar
+
