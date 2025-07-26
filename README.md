@@ -61,7 +61,6 @@ module.exports = {
   },
   plugins: [],
 };
-
 ```
 
 ---
@@ -80,7 +79,6 @@ module.exports = function (api) {
     ],
   };
 };
-
 ```
 
 ---
@@ -120,7 +118,6 @@ export default function App() {
 
 ---
 
-
 ## 🔥 Troubleshooting
 
 - Make sure your `tailwind.config.js` includes the correct `content` paths.
@@ -136,4 +133,4 @@ MIT
 
 ## 💡 Author
 
-Made with ❤️ by [Pranay Bhatkar]
+Made with ❤️ by [Pranay Bhatkar](https://linkedin.com/in/bhatkar)
